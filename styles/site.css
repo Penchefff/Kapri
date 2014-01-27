@@ -1,0 +1,180 @@
+body, header, section, footer, article, h1, h2, h3, h4, h5, h6, input, button, label, p, fieldset, nav, ul, li, a, span, strong, em {
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
+div, h1, h3, h4, h5, h6, header, footer, body, section, nav, article, aside {
+    display: block;
+}
+body{
+background: #EBEBEB;
+}
+
+h1{
+padding: 0px 20px 0px 70px;
+margin: 0px 500px 0px 380px;
+background: #EBEBEB;
+color: green;
+font-family: 'Marck Script', cursive;
+font-size: 80px;
+}
+strong {
+background: #EBEBEB;
+margin: 0px 0px 0px 190px;
+font-family: 'Comfortaa', cursive;
+
+color: orange;
+}
+nav {
+background: #EBEBEB;
+display: inline-block;
+margin: 0px 0px 0px 320px;
+padding: 0px 0px 0px 0px;
+}
+				nav ul li{
+				
+height: 50px;
+
+
+background: #EBEBEB;
+padding: 5px 5px 5px 5px;
+}
+nav ul li a{
+background-image: -webkit-linear-gradient(top, #5C5C5C 15%, #202024 60%);
+
+
+text-align: center;
+padding: 10px 0px 0px 0px;
+display: inline-block;
+position: relative;
+font-family: 'Consolas';
+font-weight: bold;
+font-size: 20px;
+
+height: 40px;
+width: 130px;
+border: 3px solid #016B6B;
+border-style: outset;
+border-radius: 6px;
+color: #DEDEDE;
+}
+#secur{
+font-size: 13px;
+}
+
+  nav a:hover {
+  background-image: -webkit-linear-gradient(top, #17BBBB 15%, #107373 60%);
+
+   }
+nav ul{
+margin: 40px 100px 0px 30px;
+}
+
+ul {
+list-style-type: none;
+height: 100%;
+background: #EBEBEB;
+}
+li{
+float: left;
+margin: 0;
+}
+a{
+text-decoration: none;
+}
+
+.leftnav {
+margin: 0px 10px 10px 214px;
+height: 255px;
+width: 116px;
+float: left;
+background: #333;
+display: none;
+}
+
+.leftnav li {
+width: 80%;
+background: #5C5C5C;
+border-radius: 4px;
+margin: 1px;
+padding: 10px;
+}
+
+.leftnav a{
+text-shadow: 1px 1px #828282;
+color: #DEDEDE;
+}
+.leftnav li:hover {
+background: #17BBBB;
+
+}
+#default {
+
+display: inline;
+}
+
+#main{
+margin: 5px 460px 50px 330px;
+padding: 10px 10px 10px 10px;
+background: #A9A9A9;
+}
+
+.mainframe {
+display: none;	
+width: 870px;
+}
+#startimg1 {
+display: inline;
+}
+
+
+
+#left_wrap{
+float: left;
+
+height: 413px;
+width: 227px;
+}
+#midd_wrap{
+
+float: left;
+height: 413px;
+width: 312px;
+}
+#right_wrap{
+margin-left: 30px;
+float: left;
+height: 413px;
+width: 301px;
+}
+#leftpic {
+width: 100%;
+height: 100%;
+}
+#rightpic {
+width: 100%;
+height: 100%;
+}
+.floorr {
+margin-left: 0px;
+
+width: 342px;
+}
+
+.floors{
+margin-top: -5px;
+margin-left: 0px;
+width: 342px;
+}
+.viev{
+height: 100%;
+width: 100%;
+}
+.four_items  {
+
+height: 42px;
+}
+.five_items{
+height: 29px;
+
+}
